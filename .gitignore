@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/build/
+/Flashcards/task/out/
+/Flashcards/task/out/production/classes/
+/Problems/copy() usage/out/
+/Problems/copy() usage/out/production/classes/
+/Problems/equals() check/out/
+/Problems/equals() check/out/production/classes/
+/Problems/Heron's formula/out/
+/Problems/Heron's formula/out/production/classes/
+/Problems/LCM/out/
+/Problems/LCM/out/production/classes/
+/Problems/Sine and cosine/out/
+/Problems/Sine and cosine/out/production/classes/
+/Problems/The angle between vectors/out/
+/Problems/The angle between vectors/out/production/classes/

@@ -1,0 +1,20 @@
+3 cards have been loaded.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+France
+The definition of the card:
+Paris
+The pair ("France":"Paris") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+France
+The card "France" already exists.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+log.txt
+The log has been saved.

@@ -1,0 +1,21 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:1
+The definition of the card:2
+The pair ("1":"2") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:3
+The definition of the card:4
+The pair ("3":"4") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:1
+The card "1" already exists.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:log.tx
+The log has been saved.
